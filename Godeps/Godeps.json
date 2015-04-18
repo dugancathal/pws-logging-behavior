@@ -1,0 +1,5 @@
+{
+	"ImportPath": "deadapp",
+	"GoVersion": "go1.4.1",
+	"Deps": []
+}
